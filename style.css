@@ -3,7 +3,7 @@
     padding: 0;
 }
 .container{
-    background-color: rgb(171, 255, 201);
+    background:linear-gradient(135deg,green,lightgreen);
     display: flex;
     justify-content: center;
     align-items: center;
